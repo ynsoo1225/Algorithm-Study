@@ -1,3 +1,4 @@
+# bfs/dfs
 def solution(begin, target, words):
     answer = 0
     Q = [begin]

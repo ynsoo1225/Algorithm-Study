@@ -1,3 +1,4 @@
+# bfs
 def solution(n, computers):
     answer = 0
     visited = [0]*n
